@@ -1,4 +1,8 @@
-export { GroupCodeDTO } from './user-mgmt/interfaces/GroupCodeDTO';
+export { GroupCodeDTO } from './dtos/interfaces/GroupCodeDTO';
+export { NewTeamDTO } from './dtos/interfaces/NewTeamDTO';
+
+
+export { Team } from './domain-models/team';
 
 
 
